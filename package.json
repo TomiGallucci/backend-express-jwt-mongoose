@@ -1,0 +1,13 @@
+{
+  "name": "backend-mysql",
+  "version": "0.0.1",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "author": "Tomas gallucci",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
